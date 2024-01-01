@@ -43,7 +43,6 @@
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -65,24 +64,29 @@
 
 
 ---
-## Docker-compose up
+## Docker
+- docker compose gif
 
 
 ---
 ## Login(Google Authenticator)
-
+- Login gif
 
 ---
 ## Chatting
-
+- Chatting gif
 
 ---
 ## Game
+- game gif
 
 ---
 ## Friend
+- friend gif
 
-
+---
+## Ranking
+- ranking gif
 
 
 
