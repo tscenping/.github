@@ -76,7 +76,9 @@ https://github.com/tscenping/BE/assets/83046766/12b3d6e0-38be-4eee-85a1-9d563fdf
 
 https://github.com/tscenping/BE/assets/83046766/dfc0014f-73bf-4204-946a-50bc1c4ee5d3
 
-https://github.com/tscenping/BE/assets/83046766/4ace021a-681d-4fc1-89c1-e75db7b7fa68
+
+https://github.com/tscenping/.github/assets/83046766/6c3b6bd0-19cc-448d-b551-22df89721d8e
+
 
 1. 로그인
 2. 사진 등록, 닉네임 설정
