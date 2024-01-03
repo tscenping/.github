@@ -70,14 +70,18 @@
 
 ---
 ## Login(Google Authenticator)
-- Login gif
+
+https://github.com/tscenping/BE/assets/83046766/dfc0014f-73bf-4204-946a-50bc1c4ee5d3
+
+https://github.com/tscenping/BE/assets/83046766/4ace021a-681d-4fc1-89c1-e75db7b7fa68
+
 1. 로그인
 2. 사진 등록, 닉네임 설정
 3. 2차인증(2FA)
 
 ---
 ## Chatting
-- Chatting gif
+https://github.com/tscenping/BE/assets/83046766/1d2127d1-6183-4582-b96f-89b665463e6b
 
 - <h3>기능</h3>
 1. 채팅방 목록 조회, 생성, 참여, 나가기
@@ -88,7 +92,8 @@
 
 ---
 ## Game
-- game gif
+
+
 - <h3>기능</h3>
 1. 게임 초대
 2. 매칭 참여
@@ -96,7 +101,8 @@
 
 ---
 ## Friend
-- friend gif
+https://github.com/tscenping/BE/assets/83046766/bf0e5f8e-95c1-454d-827f-587743302132
+
 - <h3>기능</h3>
 1. 친구 조회, 차단친구 조회, 친구 검색
 2. 차단하기, 차단해제, 친구추가, 친구삭제
@@ -105,13 +111,16 @@
 
 ---
 ## Ranking
-- ranking gif
+<img width="980" alt="랭킹페이지 스크린샷 2024-01-03 오후 4 17 23" src="https://github.com/tscenping/.github/assets/83046766/6e9e840a-c0e6-43df-b4ff-5ee78a650ded">
+
+
 - <h3>기능</h3>
 1. 랭킹조회
 
 ---
-## MyPage
-- mypage gif
+## MyPage
+<img width="1029" alt="image" src="https://github.com/tscenping/.github/assets/83046766/b19cc5d4-40fb-4eb7-a8fd-da9f23f89db8">
+
 - <h3>기능</h3>
 1. 내 정보 조회
 2. 2차 인증 on/off
