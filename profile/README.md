@@ -65,8 +65,11 @@
 
 ---
 ## Docker
-- docker compose gif
+https://github.com/tscenping/BE/assets/83046766/12b3d6e0-38be-4eee-85a1-9d563fdf5045
 
+
+1. 백엔드 빌드 이후 바로 프론트 빌드 가능하도록 구성하여 다운타임 감소
+2. 기존 1분이상 걸리는 빌드시간을 40초로 단축하였음
 
 ---
 ## Login(Google Authenticator)
@@ -115,7 +118,7 @@ https://github.com/tscenping/BE/assets/83046766/bf0e5f8e-95c1-454d-827f-58774330
 
 
 - <h3>기능</h3>
-1. 랭킹조회
+1. 10분 단위의 Cron job 업데이트를 통해 Redis 내부에 랭킹을 업데이트
 
 ---
 ## MyPage
