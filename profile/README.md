@@ -25,7 +25,7 @@
   <br><br>
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=flat-square" />
   <br>
   <h3 align="center">
 <br>
