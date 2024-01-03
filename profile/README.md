@@ -92,7 +92,7 @@ https://github.com/tscenping/BE/assets/83046766/1d2127d1-6183-4582-b96f-89b66546
 
 ---
 ## Game
-
+https://github.com/tscenping/BE/assets/83046766/06503aad-4933-4c92-9793-79342fcfc996
 
 - <h3>기능</h3>
 1. 게임 초대
