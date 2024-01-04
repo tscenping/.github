@@ -1,7 +1,7 @@
 # 🏓 트 센 핑 ☄️
 
 <h3 align="center">
-  <img width="412" alt="image" src="https://github.com/tscenping/.github/assets/83046766/e8ff3ea9-8820-4d00-9ffe-27a8ee2d7c61">
+  ![image](https://github.com/tscenping/.github/assets/83046766/4be1acb1-f9c4-4609-9978-d8e1b0c18776)
 </h3>
 
 
