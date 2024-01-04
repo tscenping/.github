@@ -1,6 +1,9 @@
 # 🏓 트 센 핑 ☄️
 
-<img width="1470" alt="image" src="https://github.com/tscenping/.github/assets/83046766/dcb5c80b-2a8c-41aa-9c33-5046f3810c9a">
+<h3 align="center">
+  <img width="412" alt="image" src="https://github.com/tscenping/.github/assets/83046766/e8ff3ea9-8820-4d00-9ffe-27a8ee2d7c61">
+</h3>
+
 
 ### Project Duration : 23.09 ~ 23.12
 ### Front-End: [Sangyeki](https://github.com/exceed96), [Him](https://github.com/HyeongwooIM)
