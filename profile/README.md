@@ -8,7 +8,7 @@
 
 ---
 
-### Project Duration : 23.09 ~ 23.12
+### Project Duration : 23.10 ~ 23.12
 ### Front-End: [Sangyeki](https://github.com/exceed96), [Him](https://github.com/HyeongwooIM)
 ### Back-End: [Yubchoi](https://github.com/yubinquitous), [Jiyun](https://github.com/yubinquitous), [Jang-cho](https://github.com/cjho0316)
 ---
