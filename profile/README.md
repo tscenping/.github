@@ -61,14 +61,8 @@
 
 ## Project Overview
 
-### Front-End
-- what we've done in Front
-
-
-
----
-### Back-End
-- what we've done in Back
+#### [Front-End](https://github.com/tscenping/tscenping)
+#### [Back-End](https://github.com/tscenping/BE)
 
 
 ---
